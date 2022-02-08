@@ -1,0 +1,32 @@
+body,h1,h2,h3,h4,h5,h6{
+    font-family:'Work Sans', sans-serif;
+
+}
+
+.header-logo{
+    width: 90px;
+}
+
+.section1{
+    background-color: #f9f9ff;
+    
+
+}
+.inner-pic img {
+    width: 90px;
+    position: relative;
+    top: 48px;
+    left: 24px;
+}
+.contact{
+    background-color: #f5f5fa;
+}
+.contact-btn{
+    background: color #00a3b4 !important;
+    
+}
+.section3{
+    background-color: #8d98f1!important;
+}
+
+
